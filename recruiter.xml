@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+ <!-- -->
+
+ <!DOCTYPE RecruiterList SYSTEM "recruiter.dtd">
+
+ <!-- -->
+
+
+ <?xml-stylesheet type="text/xsl" href="recruiter.xsl"?>
+ <RecruiterList>
+     <Recruiter>
+         <cname>Cisco</cname>
+         <aboutus>Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. 
+         Cisco was founded in 1984 by a small group of computer scientists from Stanford University. Since the company's inception, Cisco engineers have been leaders in the development of Internet Protocol (IP)-based networking technologies.</aboutus>
+         <startdate>18/08/2020</startdate>
+         <enddate>25/08/2020</enddate>
+        <eligibility> 
+         <cgpa>6</cgpa>
+         <criteria>no standing arrears </criteria>
+         </eligibility>
+         <rounds>4</rounds>
+         <contactus>cisco@cs.com</contactus>
+         <Role>
+         <role>Web-Developer</role>
+         <type>Full-time</type>
+         <ctc>14lpa</ctc>
+         <branches>CSE</branches>
+         </Role>
+         <link>-------------</link>
+         <question>Why do you want to join the company?</question>
+     </Recruiter>
+
+    <Recruiter>
+         <cname>Aptean</cname>
+         <aboutus>Aptean is a global provider of mission-critical, industry-specific software solutions. Aptean’s purpose-built ERP and supply chain management solutions help address the unique challenges facing process and discrete manufacturers, distributors and other focused organizations. Aptean’s compliance solutions are built for companies serving specific markets such as finance, healthcare, biotech and pharmaceuticals. Over 5,000 organizations in more than 20 industries across 54 countries trust Aptean’s solutions at their core to assist with running their operations.</aboutus>
+         <startdate>01/09/2020</startdate>
+         <enddate>04/09/2020</enddate>
+         <eligibility>
+         <cgpa>7</cgpa>
+         <criteria>no standing arrears </criteria>
+         </eligibility>
+         <rounds>3</rounds>
+         <contactus>info@aptean.com</contactus>
+         <Role>
+         <role>Associate Engineer, Development/QA</role>
+         <type>Full-time,Intern</type>
+         <ctc> 5.94L (Fixed + Annual Incentive Plan)</ctc>
+         <branches>Computer Science /Information Technology/ Information Science</branches>
+         </Role>
+         <link>-------------</link>
+         <question>Why do you want to join the company?</question>
+     </Recruiter>
+
+     <Recruiter>
+         <cname>Practo</cname>
+         <aboutus>Practo is the world's leading healthcare platform that connects millions of patients with hundreds of thousands of healthcare providers around the world and helps people make better healthcare decisions. Practo provides a singular platform that helps consumers with all their healthcare requirements – from finding the healthcare provider to booking an appointment, online doctor consultation, getting their tests done and even ordering medicines. Practo also makes software products that help healthcare providers ranging from clinics to hospitals digitise and deliver more efficient and higher quality healthcare to millions of patients around the world every day. Practo continues to be dedicated to centering healthcare around the consumer and helping billions of people live healthier longer lives.
+
+</aboutus>
+         <startdate>18/09/2020</startdate>
+         <enddate>24/09/2020</enddate>
+         <eligibility>
+         <cgpa>6</cgpa>
+         <criteria>no standing arrears </criteria>
+         </eligibility>
+         <rounds>3</rounds>
+         <contactus>info@practo.com</contactus>
+         <Role>
+         <role>Software Development</role>
+         <type>Intern</type>
+         <ctc>Rs.20,000/- pm</ctc>
+         <branches>CSE</branches>
+         </Role>
+         <link>-------------</link>
+         <question>Why do you want to join the company?</question>
+     </Recruiter>
+
+     <Recruiter>
+         <cname>Ford Motors Pvt Ltd</cname>
+         <aboutus>Ford Motor Company is a global company based in Dearborn, Michigan. The company designs, manufactures, markets and services a full line of Ford cars, trucks, SUVs, electrified vehicles and Lincoln luxury vehicles, provides financial services through Ford Motor Credit Company and is pursuing leadership positions in electrification; mobility solutions, including self-driving services; and connected services.  Ford employs approximately 190,000 people worldwide. For more information regarding Ford, its products and Ford Motor Credit Company, please visit corporate.ford.com. </aboutus>
+         <startdate>12/09/2020</startdate>
+         <enddate>17/09/2020</enddate>
+         <eligibility>
+         <cgpa>6</cgpa>
+         <criteria>no standing arrears </criteria>
+         </eligibility>
+         <rounds>3</rounds>
+         <contactus>info@ford.com</contactus>
+         <Role>
+         <role>Software Engineer</role>
+         <type>internship + job </type>
+         <ctc>5.5 Lacs pa </ctc>
+         <branches>CS,  ECE</branches>
+         </Role>
+         <link>-------------</link>
+         <question>Why do you want to join the company?</question>         
+     </Recruiter>
+
+     <Recruiter>
+         <cname>Autoliv</cname>
+         <aboutus>Autoliv develops, manufactures and markets airbags, seatbelts and steering wheels. Statistically, more than three airbags or seatbelts from Autoliv have been delivered to every vehicle produced globally during the past ten years.</aboutus>
+         <startdate>24/09/2020</startdate>
+         <enddate>28/09/2020</enddate>
+         <eligibility>
+         <cgpa>6</cgpa>
+         <criteria>no standing arrears </criteria>
+         </eligibility>
+         <rounds>3</rounds>
+         <contactus>info@autoliv.com</contactus>
+         <Role>
+         <role>Associate Engineer</role>
+         <type>Internship,FTE</type>
+         <ctc>4 to 4.5 LPA </ctc>
+         <branches>CS</branches>
+         </Role>
+         <link>-------------</link>
+         <question>Why do you want to join the company?</question>
+     </Recruiter>
+
+     <Recruiter>
+         <cname>Hanu company</cname>
+         <aboutus>A Microsoft Partner for over 20 years, a Tier I CSP Partner and an Azure Expert Managed Service Provider exclusively dedicated to Azure migration and integration, Hanu supports enterprises with unequalled intelligence and expertise providing Managed Transformation, Application Modernization and Enterprise IT Innovation. </aboutus>
+         <startdate>04/10/2020</startdate>
+         <enddate>08/10/2020</enddate>
+         <eligibility>
+         <cgpa>6.5</cgpa>
+         <criteria>No standing arrears,Excellent communication skills  </criteria>
+         </eligibility>
+         <rounds>5</rounds>
+         <contactus>info@hanu.com</contactus>
+         <Role>
+         <role>Cloud Engineer/Cloud Analyst </role>
+         <type>FTE</type>
+         <ctc>4.00 LPA + benefits  </ctc>
+         <branches>CSE</branches>
+         </Role>
+         <link>-------------</link>
+         <question>Why do you want to join the company?</question>
+     </Recruiter>
+
+     <Recruiter>
+         <cname>Caterpillar</cname>
+         <aboutus>Caterpillar is the world’s leading manufacturer of construction and mining equipment, diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives. We are a leader and proudly have the largest global presence in the industries we serve. Learn more about our Strategy, Governance, History and Brands, as well as the values that guide our conduct.</aboutus>
+         <startdate>06/10/2020</startdate>
+         <enddate>09/10/2020</enddate>
+         <eligibility>
+         <cgpa>7.5</cgpa>
+         <criteria>No current arrears</criteria>
+         </eligibility>
+         <rounds>2</rounds>
+         <contactus>info@cater.com</contactus>
+         <Role>
+         <role>Marketing , Analysis</role>
+         <type>Internship</type>
+         <ctc>INR 25000 per month  </ctc>
+         <branches>Computer Science</branches>
+         </Role>
+         <link>-------------</link>
+         <question>Why do you want to join the company?</question>
+     </Recruiter>
+
+     <Recruiter>
+         <cname>Atlassian</cname>
+         <aboutus>Atlassian is a leading provider of collaboration, development, and issue tracking software for teams. With over 138,000 global customers (including 85 of the Fortune 100), we’re advancing the power of collaboration with products including Jira, Jira Service Desk, Jira Ops, Confluence, Bitbucket, Trello, and more. Driven by honest values, an amazing culture, and consistent revenue growth, we’re out to unleash the potential of every team. </aboutus>
+         <startdate>06/10/2020</startdate>
+         <enddate>09/10/2020</enddate>
+         <eligibility>
+         <cgpa>7</cgpa>
+         <criteria>No current/active backlogs</criteria>
+         </eligibility>
+         <rounds>4</rounds>
+         <contactus>info@atlassian.com</contactus>
+         <Role>
+         <role>IT Developer</role>
+         <type>Internship</type>
+         <ctc>46.475 LPA</ctc>
+         <branches>CSE, ECE, EEE, EIE </branches>
+         </Role>
+         <link>-------------</link>
+         <question>Why do you want to join the company?</question>
+     </Recruiter>
+
+     <Recruiter>
+         <cname>Atlassian</cname>
+         <aboutus>Atlassian is a leading provider of collaboration, development, and issue tracking software for teams. With over 138,000 global customers (including 85 of the Fortune 100), we’re advancing the power of collaboration with products including Jira, Jira Service Desk, Jira Ops, Confluence, Bitbucket, Trello, and more. Driven by honest values, an amazing culture, and consistent revenue growth, we’re out to unleash the potential of every team. </aboutus>
+         <startdate>12/10/2020</startdate>
+         <enddate>14/10/2020</enddate>
+         <eligibility>
+         <cgpa>7</cgpa>
+         <criteria>No current/active backlogs</criteria>
+         </eligibility>
+         <rounds>4</rounds>
+         <contactus>info@atlassian.com</contactus>
+         <Role>
+         <role>IT Developer</role>
+         <type>Internship</type>
+         <ctc>46.475 LPA</ctc>
+         <branches>CSE, ECE, EEE, EIE </branches>
+         </Role>
+         <link>-------------</link>
+         <question>Why do you want to join the company?</question>
+     </Recruiter>
+
+<Recruiter>
+         <cname>Infosys</cname>
+         <aboutus>Infosys is a global leader in next-generation digital services and consulting. We enable clients in 46 countries to navigate their digital transformation. With over three decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through the many nexts of their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise and ideas from our innovation ecosystem</aboutus>
+         <startdate>25/10/2020</startdate>
+         <enddate>27/10/2020</enddate>
+         <eligibility>
+         <cgpa>6</cgpa>
+         <criteria>No current/active backlogs</criteria>
+         </eligibility>
+         <rounds>3</rounds>
+         <contactus>info@infosys.com</contactus>
+         <Role>
+         <role>Software Engineer</role>
+         <type>FTE</type>
+         <ctc>3.38 LPA</ctc>
+         <branches>CSE, ECE, EEE, EIE </branches>
+         </Role>
+         <link>https://infytq.infosys.com/</link>
+         <question>Why do you want to join the company?</question>
+     </Recruiter>
+
+     <Recruiter>
+         <cname>TCS</cname>
+         <aboutus>We strongly believe global challenges need global solutions. We are continually engaging with our employees, clients, partners, public institutions, and community organisations across the world to step up and rise to the occasion. We are #OneTCS.
+
+A part of the Tata group, India's largest multinational business group, TCS has 4,50,000+ of the world’s best-trained consultants in 46 countries. The company is listed on the BSE (formerly Bombay Stock Exchange) and the NSE (National Stock Exchange) in India. 
+
+TCS' proactive stance on climate change and award-winning work with communities across the world have earned it a place in leading sustainability indices such as the Dow Jones Sustainability Index (DJSI), MSCI Global Sustainability Index and the FTSE4Good Emerging Inde</aboutus>
+         <startdate>12/11/2020</startdate>
+         <enddate>14/11/2020</enddate>
+         <eligibility>
+         <cgpa>6</cgpa>
+         <criteria>1 active backlogs accepted</criteria>
+         </eligibility>
+         <rounds>3</rounds>
+         <contactus>info@tcs.com</contactus>
+         <Role>
+         <role>Software Engineer</role>
+         <type>FTE</type>
+         <ctc>3.8 LPA</ctc>
+         <branches>CSE, ECE, EEE, EIE </branches>
+         </Role>
+         <link>https://www.tcsion.com/</link>
+         <question>Why do you want to join the company?</question>
+     </Recruiter>
+
+
+
+
+ </RecruiterList>
