@@ -1,0 +1,43 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="RecruiterList">
+    <xs:annotation>
+      <xs:documentation></xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Recruiter" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="cname"/>
+              <xs:element type="xs:string" name="aboutus"/>
+              <xs:element type="xs:string" name="startdate"/>
+              <xs:element type="xs:string" name="enddate"/>
+              <xs:element name="eligibility">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:float" name="cgpa"/>
+                    <xs:element type="xs:string" name="criteria"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element type="xs:byte" name="rounds"/>
+              <xs:element type="xs:string" name="contactus"/>
+              <xs:element name="Role">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="role"/>
+                    <xs:element type="xs:string" name="type"/>
+                    <xs:element type="xs:string" name="ctc"/>
+                    <xs:element type="xs:string" name="branches"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element type="xs:string" name="link"/>
+              <xs:element type="xs:string" name="question"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
